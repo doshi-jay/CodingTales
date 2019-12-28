@@ -943,10 +943,10 @@ img.img-raised {
   text-shadow: white 0px 0px 15px;
 }
 
-.card-title {
-  text-align: center;
-}
-
 .p-display-block {
   display: grid;
+}
+
+.card-title {
+  text-align: center;
 }
